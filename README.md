@@ -7,10 +7,8 @@ An interactive, AI-powered web application that predicts the likelihood of diabe
 
 ## 📌 Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Dataset](#dataset)
 - [How It Works](#how-it-works)
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
@@ -19,10 +17,6 @@ An interactive, AI-powered web application that predicts the likelihood of diabe
 - [License](#license)
 
 ---
-
-## 🚀 Demo
-
-🧪 Coming Soon! *(You can deploy on [Streamlit Cloud](https://streamlit.io/cloud) or [Hugging Face Spaces](https://huggingface.co/spaces))*
 
 ---
 
@@ -48,11 +42,6 @@ An interactive, AI-powered web application that predicts the likelihood of diabe
 
 ---
 
-## 📂 Dataset
-
-- **Source:** [PIMA Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-- **Features:** Glucose, Blood Pressure, BMI, Age, Insulin, etc.
-- **Modifications:** Removed invalid zeroes, added BMI category, handled class imbalance using SMOTE
 
 ---
 
